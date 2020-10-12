@@ -6,7 +6,12 @@ Controls
  space - to jump
  shift - to sprint
  ctrl - to slow walk
- e - to sheath and unsheath weapon
+ e - to sheath and unsheath weapon (a tiny bit bugged)
  f - to pickup items
  i - to open and close inventory
+ r - lockon enemies (this is still pretty bugged)
+ 
+ rightclick - to block (bugged)
+ leftclick - to attack (tiny bit bugged)
+ 
  
